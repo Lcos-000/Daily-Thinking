@@ -21,7 +21,8 @@ daily-thinking/
 ├── 2026-7-10.md  # 混合云调度器的准入判断与数据结构设计
 ├── 2026-7-11.md  # Gang Scheduling 下的死锁如何从调度层面避免
 ├── 2026-7-13.md  # GPU 集群抢占策略设计
-└── 2026-7-14.md  # K8s Scheduler Framework 的 GPU 拓扑感知调度插件
+├── 2026-7-14.md  # K8s Scheduler Framework 的 GPU 拓扑感知调度插件
+└── 2026-7-15.md  # Operator 的架构拆分与 Reconcile 职责边界
 ```
 
 ## 文件命名规范
