@@ -25,7 +25,8 @@ daily-thinking/
 ├── 2026-7-15.md  # Operator 的架构拆分与 Reconcile 职责边界
 ├── 2026-7-16.md  # Continuous Batching 下的显存约束与请求抢占
 ├── 2026-7-17.md  # Continuous Batching 中 Prefill 的插入时机决策
-└── 2026-7-18.md  # 显存驱逐时该选哪个请求
+├── 2026-7-18.md  # 显存驱逐时该选哪个请求
+└── 2026-7-19.md  # 多副本推理服务的负载均衡策略
 ```
 
 ## 文件命名规范
